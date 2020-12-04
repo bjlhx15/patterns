@@ -8,5 +8,5 @@
         http://www.springframework.org/schema/context/spring-context.xsd
 ">
 
-<!--    <context:component-scan base-package="com.github.bjlhx15.patterns.base.create.builder"></context:component-scan>-->
+<!--    <context:component-scan base-package="com.github.bjlhx15.patterns.base.eg01createeate.eg04builder"></context:component-scan>-->
 </beans>

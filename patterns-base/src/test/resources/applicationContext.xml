@@ -5,15 +5,15 @@
        http://www.springframework.org/schema/beans/spring-beans.xsd">
 
 
-    <bean id="singleton009spring" class="com.github.bjlhx15.patterns.base.create.singleton.Singleton009spring"
+    <bean id="singleton009spring" class="com.github.bjlhx15.patterns.base.eg01create.eg03singleton.Singleton009spring"
           init-method="init" scope="singleton"></bean>
 
 
-    <bean id="singleton009spring2" class="com.github.bjlhx15.patterns.base.create.singleton.Singleton009spring"
+    <bean id="singleton009spring2" class="com.github.bjlhx15.patterns.base.eg01create.eg03singleton.Singleton009spring"
           init-method="init" scope="prototype"></bean>
 
 
 
-    <bean id="singleton011springattr" class="com.github.bjlhx15.patterns.base.create.singleton.Singleton011springattr"
+    <bean id="singleton011springattr" class="com.github.bjlhx15.patterns.base.eg01create.eg03singleton.Singleton011springattr"
           init-method="init" scope="singleton"></bean>
 </beans>

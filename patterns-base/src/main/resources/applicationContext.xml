@@ -5,6 +5,6 @@
        http://www.springframework.org/schema/beans/spring-beans.xsd">
 
 
-    <bean id="singleton009spring" class="com.github.bjlhx15.patterns.base.create.singleton.Singleton009spring"
+    <bean id="singleton009spring" class="com.github.bjlhx15.patterns.base.eg01create.eg03singleton.Singleton009spring"
           init-method="init" scope="singleton"></bean>
 </beans>

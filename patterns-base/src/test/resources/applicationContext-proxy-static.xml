@@ -24,7 +24,7 @@
         <property name="password" value="pwd"/>
     </bean>
 
-    <bean id="dataSource" class="com.github.bjlhx15.patterns.base.structure.proxy.db.DynamicDataSource">
+    <bean id="dataSource" class="com.github.bjlhx15.patterns.base.eg02structure.eg03proxy.db.DynamicDataSource">
         <property name="targetDataSources">
             <map key-type="java.lang.String">
                 <entry value-ref="db0" key="db0"></entry>
