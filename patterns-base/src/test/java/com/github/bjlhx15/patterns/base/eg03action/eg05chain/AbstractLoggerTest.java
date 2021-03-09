@@ -1,5 +1,9 @@
 package com.github.bjlhx15.patterns.base.eg03action.eg05chain;
 
+import com.github.bjlhx15.patterns.base.eg03action.eg05chain.eg02guodu.AbstractLogger;
+import com.github.bjlhx15.patterns.base.eg03action.eg05chain.eg02guodu.ConsoleLogger;
+import com.github.bjlhx15.patterns.base.eg03action.eg05chain.eg02guodu.ErrorLogger;
+import com.github.bjlhx15.patterns.base.eg03action.eg05chain.eg02guodu.FileLogger;
 import org.junit.Test;
 
 public class AbstractLoggerTest {

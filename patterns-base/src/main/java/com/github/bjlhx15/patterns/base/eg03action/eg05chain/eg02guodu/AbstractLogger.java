@@ -1,4 +1,4 @@
-package com.github.bjlhx15.patterns.base.eg03action.eg05chain;
+package com.github.bjlhx15.patterns.base.eg03action.eg05chain.eg02guodu;
 
 public abstract class AbstractLogger {
     public static int DEBUG = 1;
